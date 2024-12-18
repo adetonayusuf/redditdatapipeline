@@ -1,5 +1,5 @@
 # redditdatapipeline
-#Streaming Data from Reddit
+# Streaming Data from Reddit
 
 #Business Overview/Problem
 In the rapidly evolving tech landscape, TechInsight Solutions grapples with the challenge of efficiently leveraging real-time insights from Reddit, a vital source of user-generated content. 
